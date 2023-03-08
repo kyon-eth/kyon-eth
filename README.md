@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kyon-eth
-- 👀 I’m interested in blockchain, and particularly NFTs currently
+- 👀 I’m interested in generative AI, web3 and anything else that's interesting
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on NFT projects
 - 📫 You can reach me via kyonosuke.eth@gmail.com
 
 <!---
